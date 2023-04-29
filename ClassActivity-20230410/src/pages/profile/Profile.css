@@ -1,0 +1,9 @@
+.profile-pic{
+    display: flex;
+    size: 5vh;
+    max-width: 100px;
+}
+.profile-body{
+    display: flex;
+    
+}
