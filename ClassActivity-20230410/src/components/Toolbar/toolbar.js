@@ -3,11 +3,11 @@ function Toolbar() {
   return (
     <div className="tool-bar">
 
-      <button><a href="/">Ho</a></button>
-      <button><a href="/explore">Ex</a></button>
-      <button class="upload-button" ><div>Up</div></button>
-      <button><a href="/center">Ce</a></button>
-      <button><a href="/profile">Pr</a></button>
+      <button class="button-home"><a class="button-a" href="/">H</a></button>
+      <button class="button-explore"><a href="/explore">E</a></button>
+      <button class="upload-button" ><a class="upload-button-a">U</a></button>
+      <button class="button-notification"><a href="/center">C</a></button>
+      <button class="button-profile"><a href="/profile">P</a></button>
     </div>
   );}
   export default Toolbar;
