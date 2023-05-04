@@ -2,7 +2,7 @@ const cars = [
   {
     price: 70000,
     model: "A45",
-    brand: "Mercedes",
+    brand: "Curry",
     img: "fridge.png"
   },{
     price: 17000,
