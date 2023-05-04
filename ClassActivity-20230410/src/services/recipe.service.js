@@ -1,4 +1,4 @@
-const cars = [
+const recipes = [
   {
     price: 70000,
     model: "A45",
@@ -42,10 +42,10 @@ const cars = [
   },
 ];
 
-const getCars = () => {
-    return cars;
+const getRecipes = () => {
+    return recipes;
 }
 
 export default {
-  getCars
+  getRecipes
 };
